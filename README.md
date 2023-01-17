@@ -18,7 +18,7 @@ Si tratta del mio primo progetto in linguaggio JavaScript!
 ## 🎨 La sfondo grafico è stato realizzato con Adobe Illustrator.
 
 ## ⚡ Provalo!
-Prova il contatore -->[Link](https://sterapo.github.io/The_counter/)
+Prova il contatore -->[Link](https://sterapo.github.io/thecounter/)
 
 ## 📧 Contatti
 
