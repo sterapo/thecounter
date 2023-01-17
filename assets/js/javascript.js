@@ -35,18 +35,19 @@ buttonContainer.addEventListener('click', (event) => {
       if (count <= 0) {
         count--;
         counterValue.style.color = '#EF3A4C';
-        } 
+        }
       else
         count--;
       break;
     case 'increase':
       if (count >= -1){
         counterValue.style.color = '#1B2033';
-        count++;}
+        count++;
+        }
       else {
         counterValue.style.color = '#EF3A4C';
         count++;
-      }
+        }
       break;
     case 'reset':
         count = 0;
